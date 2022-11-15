@@ -1,0 +1,4 @@
+{
+  "mongoUrl": "mongodb+srv://Op:gopi@cluster0.8ccql.mongodb.net/?retryWrites=true&w=majority",
+  "owners": [""]
+}
