@@ -1,0 +1,15 @@
+{
+  "success": "<:icons_yes:1018200822837952606>",
+  "fail": " <:icons_no:1018202282657058866>",
+  "ticket": "<:icons_ticket:1018371488719581214>",
+  "delete": "<:ticket_delete:1018371509934379088>" ,
+  "unlock": "<:ticket_open:1018371554431750214>",
+  "lock": "<:ticket_lock:1018371552665948220> ",
+  "transcript": "<:transcript:1018371990698066010>",
+  "dot": "<:icons_dot:1018372097761878036>",
+  "like": "<:icons_like:1018200091179372634>",
+  "equal": "<a:equalto:1018372276212744255>",
+  "dislike": "<:icons_dislike:1018201205169737779>",
+  "channel": "<:icons_channel:1018372531650052096>",
+  "voice": "<:voice:1018372599077666846>"
+}
